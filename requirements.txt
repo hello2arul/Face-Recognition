@@ -1,0 +1,7 @@
+# sofwares needed - Visual Studio with C++ development libraries
+# python modules
+numpy
+cv2
+cmake
+dlib
+image-recognition
