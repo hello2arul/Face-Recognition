@@ -1,0 +1,5 @@
+account_sid = "YOUR_TWILIO_SID"
+auth_token = "YOUR_TWILIO_TOKEN"
+
+FROM_NO = "YOUR_TWILIO_NO"
+TO_NO = "YOUR_TO_NO"
